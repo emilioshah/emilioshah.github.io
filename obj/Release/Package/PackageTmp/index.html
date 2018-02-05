@@ -1,0 +1,308 @@
+﻿<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en" ng-app="genericApp">
+<head>
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#1d6b23">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#1d6b23">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#1d6b23">
+
+    <title ng-bind="title"></title>
+
+
+    <link rel="icon" sizes="192x192" href="/assets/images/favicon.png">
+
+    <!-- SCROLLS -->
+    <!-- load bootstrap and fontawesome via CDN -->
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
+    <!--<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
+
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" />
+
+
+
+
+    <!-- SPELLS -->
+    <!-- load angular and angular route via CDN -->
+    <!--<script src="https://cdn.rawgit.com/riggerthegeek/ng-page-title/master/dist/ng-page-title.min.js"></script>-->
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+    <!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js" integrity="sha384-feJI7QwhOS+hwpX2zkaeJQjeiwlhOP+SdQDqhgvvo1DsjtiSQByFdThsxO669S2D" crossorigin="anonymous"></script>-->
+
+
+   
+    <link rel="stylesheet" href="/maps/documentation/javascript/demos/demos.css">
+    
+    <link rel="stylesheet" href="mycustomstyles.css" />
+    <style>
+
+        .testfooter {
+            padding: 0;
+            margin: 0;
+            width: 400px;
+            float: left;
+        }
+
+            .testfooter ul {
+                padding: 0;
+                margin: 0;
+                list-style: none;
+                border: 0;
+                float: left;
+            }
+
+                .testfooter ul li {
+                    float: left;
+                    margin: 0;
+                    padding: 0;
+                    border: 0;
+                }
+
+                    .testfooter ul li a {
+                        float: left;
+                        margin: 0;
+                        padding: 13px 10px;
+                        text-decoration: none;
+                        /*border: 1px solid #000;*/
+                    }
+
+    </style>
+</head>
+<!-- define angular controller -->
+<body ng-controller="mainController">
+
+    <!--<body ng-controller="mainController" style="overflow-x:hidden; margin-left: -15px; margin-right: -15px">-->
+    <!-- HEADER AND NAVBAR -->
+    <header>
+
+        <nav class="navbar navbar-expand-md navbar-light bg-faded" style="background-color:#90c17c; z-index: 100;">
+           
+            <a class="navbar-brand" href="#">
+                <img src="/assets/images/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">
+                My Generic Site 4.0
+            </a>
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="nav navbar-nav navbar-right ml-auto mt-2 mt-md-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#"><i class="fa fa-home"></i> Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about"><i class="fa fa-shield"></i> About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact"><i class="fa fa-comment"></i> Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#maps"><i class="fa fa-map"></i> Maps</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#blog"><i class="fa fa-rss"></i> Blog</a>
+                    </li>
+                    <!--<li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Dropdown link
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" href="#">Action</a>
+                            <a class="dropdown-item" href="#">Another action</a>
+                            <a class="dropdown-item" href="#">Something else here</a>
+                        </div>
+                    </li>-->
+                </ul>
+            </div>
+        </nav>
+
+        <!--<nav class="navbar navbar-default navbar-toggleable-sm" style="background-color:#90c17c;">
+            <div class="container">
+
+                <button type="button" class="navbar-toggle" ng-init="isCollapsed = true" ng-click="isCollapsed = !isCollapsed">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="navbar-header">
+                    <img id="logo" src="/assets/images/favicon.png" style="height: 25px; width: 25px; margin-bottom: 5px;" />
+                    <a class="navbar-brand" href="/">My Generic Site 4.0</a>
+                </div>
+
+
+                <div class="navbar-collapse" ng-class="{collapse: isCollapsed}">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                        <li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
+                        <li><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
+                        <li><a href="#maps"><i class="fa fa-map"></i> Maps</a></li>
+                        <li><a href="#blog"><i class="fa fa-rss"></i> Blog</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>-->
+        <!-- begin nav menu -->
+        <!--<nav role="navigation" class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header" dropdown is-open="status.isopen">
+                    <button type="button" class="btn btn-success navbar-toggle btn btn-primary dropdown-toggle" dropdown-toggle ng-disabled="disabled" data-toggle="collapse" data-target=".navbar-collapse" ng-init="navCollapsed = true"
+                            ng-click="navCollapsed = !navCollapsed">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a id="brandbbb" class="navbar-brand" href="~/">
+                        <img style="width: 51px; padding: 0%; margin-top: -33%" alt="Brand" src="~/Content/WebDesign.png">
+                    </a>
+
+
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="/">My Generic Site 4.0</a>
+                        </div>
+                    </div>
+                    <div id="menu" collapse="navCollapsed" class="navbar-collapse collapse navbar-responsive-collapse">
+                        <ul ng-controller="MenuController as menu" id="menucenter" role="menu" class="nav navbar-nav navbar-right">
+                            <li class="active">
+                <h4 style="color:yellowgreen; padding-top:3%">Event Guru</h4>
+            </li>
+                            <li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+                            <li><a href="#about"><i class="fa fa-shield"></i> About</a></li>
+                            <li><a href="#contact"><i class="fa fa-comment"></i> Contact</a></li>
+
+
+                        </ul>
+                    </div>
+                </div>
+                </div>
+        </nav>-->
+        <!-- end nav menu -->
+    </header>
+
+    <!-- MAIN CONTENT AND INJECTED VIEWS -->
+    <div id="main" class="main2" style="padding-bottom:9%">
+        <!-- angular templating -->
+        <!-- this is where content will be injected -->
+        <div id="testng" ng-view></div>
+
+    </div>
+
+
+    <div id="testfix" class="container-fluid footer">
+        <footer id="footerid" class="page-footer center-on-small-only stylish-color-dark">
+
+            <!--<div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-3">
+                        <ul class="social-icons" style="padding-right: 10%; margin-top: -7%;">
+                            <li style="float: right; padding: 12px; font-size: 250%"><a href="https://www.facebook.com/profile.php?id=100009327249127"><i class="fa fa-facebook-square"></i></a></li>
+                            <li style="float: right; padding: 12px; font-size: 250%"><a href="https://plus.google.com/111448868049317837084/posts"><i class="fa fa-google-plus-square"></i></a></li>
+                            <li style="float: right; padding: 12px; font-size: 250%"><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <div ng-app ng-controller="dateCtrl">
+                            <p>&copy; {{date | date:'yyyy'}} My Generic <a href="#error">Site</a> 4.0. All Rights Reserved</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="navbar-header">
+                            <img id="logo" src="/assets/images/favicon.png" style="height: 25px; width: 25px; margin-top: -4px;" />
+                            <a class="navbar-brand" href="/" style="height: 25px; margin-top: -15px;">My Generic Site 4.0</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>-->
+            <!--Footer Links-->
+            <div class="container" style="padding-top: 2%">
+                <div class="row">
+
+                    <!--First column-->
+                    <div class="col-md-4 mx-auto" id="social-icons">
+                        <!--<ul>
+                            <li style="float: right; padding: 10px; font-size: 250%"><a href="https://www.facebook.com/profile.php?id=100009327249127"><i class="fa fa-facebook-square"></i></a></li>
+                            <li style="float: right; padding: 10px; font-size: 250%"><a href="https://plus.google.com/111448868049317837084/posts"><i class="fa fa-google-plus-square"></i></a></li>
+                            <li style="float: right; padding: 10px; font-size: 250%"><a href="#"><i class="fa fa-twitter-square"></i></a></li>
+
+                        </ul>-->
+                        <!--Test-->
+
+
+                        <div class="testfooter">
+
+                            <!--<h3>Social Profiles</h3>-->
+                            <ul class="widget-social" id="wsocial" style="margin-left: auto; margin-right: auto;">
+                                <li><a href="https://www.linkedin.com/in/joshua2graves"><i class="fa fa-twitter-square"></i></a></li>
+                                <!--<li class="col-md-2"><a href="https://github.com/Joshua404"><img src="assets/images/github-logo.png" /></a></li>-->
+                                <li><a href="https://www.facebook.com/profile.php?id=100009327249127"><i class="fa fa-facebook-square"></i></a></li>
+                                <!--<li><a href="#"><i class="fa fa-dribbble"></i></a></li>-->
+                                <li><a href="https://plus.google.com/111448868049317837084/posts"><i class="fa fa-google-plus-square"></i></a></li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+                    <!--/.First column-->
+                    <!--Second column-->
+                    <div class="col-md-4 mx-auto">
+                        <div ng-app ng-controller="dateCtrl">
+                            <p>&copy; {{date | date:'yyyy'}} My Generic <a href="#error">Site</a> 4.0. All Rights Reserved</p>
+                        </div>
+                    </div>
+                    <!--/.Second column-->
+                    <!--Third column-->
+                    <div class="col-md-4 mx-auto">
+                        <div>
+                            <img id="logo" src="/assets/images/favicon.png" style="height: 25px; width: 25px; margin-top: -4px;" />
+                            <a href="/" style="height: 25px; margin-top: -15px;">My Generic Site 4.0</a>
+
+                        </div>
+                    </div>
+                    <!--/.Third column-->
+
+
+
+
+                </div>
+            </div>
+        </footer>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+
+    <!--<script>
+        function myMap() {
+            // Create a map object and specify the DOM element for display.
+            var map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: -34.397, lng: 150.644 },
+                zoom: 8
+            });
+        }
+
+    </script>-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKgLiUHxBIx_nTyYRBXWQ-9YAnnJHW-_Q&callback=myMap"></script>
+
+    <!--<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>-->
+    <script src="script.js"></script>
+
+</body>
+</html>

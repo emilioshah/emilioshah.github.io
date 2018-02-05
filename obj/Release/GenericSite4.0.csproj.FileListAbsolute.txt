@@ -1,0 +1,113 @@
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.dll.config
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.pdb
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.exe
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.exe.config
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.rsp
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.exe
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.exe.config
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.rsp
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.AppContext.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Console.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.Compression.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Claims.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Threading.Thread.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.ValueTuple.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.exe
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.exe.config
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.rsp
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.dll
+C:\Users\joshu\Desktop\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.pdb
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.dll.config
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\GenericSite4.0.pdb
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.exe
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.exe.config
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csc.rsp
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.exe
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.exe.config
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\csi.rsp
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.AppContext.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Console.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.Process.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.Compression.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.IO.Pipes.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.AccessControl.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Claims.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Security.Principal.Windows.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Threading.Thread.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.ValueTuple.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.ReaderWriter.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XmlDocument.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XPath.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.exe
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.exe.config
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\vbc.rsp
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\VBCSCompiler.exe
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.csproj.CoreCompileInputs.cache
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.dll
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.pdb
+\\Mac\Dropbox\Code Projects\GenericSite4.0\GenericSite4.0\obj\Release\GenericSite4.0.csprojResolveAssemblyReference.cache
