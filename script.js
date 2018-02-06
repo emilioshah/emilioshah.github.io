@@ -55,6 +55,20 @@ genericApp.config(function ($routeProvider) {
             title: 'Exodus Survival Blog'
         })
 
+        .when('/courseprepinfo', {
+
+            templateUrl: 'pages/courseprepinfo.html',
+            //controller: 'contactController',
+            title: 'Course Prep Info'
+        })
+
+        .when('/coursepricing', {
+
+            templateUrl: 'pages/coursepricing.html',
+            //controller: 'contactController',
+            title: 'Course Pricing'
+        })
+
             .when('/error', {
 
             templateUrl: 'pages/error.html',

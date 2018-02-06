@@ -66,6 +66,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\Children%27s Program Description.pdf" />
+    <Content Include="assets\Children%27s Program Packing List.pdf" />
+    <Content Include="assets\Children%27s Program Schedule.pdf" />
+    <Content Include="assets\intro-to-wilderness-survival-syllabus1.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\MyGenericSite - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
@@ -95,6 +99,8 @@
     <Content Include="pages\blog.html" />
     <Content Include="pages\contact.html" />
     <Content Include="pages\courseinfo.html" />
+    <Content Include="pages\courseprepinfo.html" />
+    <Content Include="pages\coursepricing.html" />
     <Content Include="pages\error.html" />
     <Content Include="pages\home.html" />
     <Content Include="pages\maps.html" />

@@ -10,6 +10,10 @@ body {
     /*padding: 25px;*/
 }
 
+p, span {
+    font-size: larger;
+}
+
 #main {
     min-height: 95%;
     margin-bottom: -95px;
@@ -164,7 +168,7 @@ body {
     }
 
     #homepic {
-        max-height: 270px;
+        max-height: 250px;
         /*display:block;*/
         /*margin-left:auto;
                 margin-right:auto;*/
@@ -211,6 +215,16 @@ body {
         margin-right: -24px;
     }
 
+    #maptest {
+        /*width:100%;*/
+        /*position: relative;*/
+        height: 12%;
+        width: 45%;
+        padding-bottom: 150% !important;
+    }
+
+    
+
 }
 
 @media (max-width: 767px) {
@@ -225,6 +239,11 @@ body {
     #footerid {
         bottom: 0px !important;
         height: 155px !important;
+    }
+
+    .aboutIframe {
+        width: 320px !important;
+        height: 200px !important;
     }
 }
 
@@ -335,7 +354,7 @@ footer {
 #map {
     /*width: 700px;*/
     /*height: 620px;*/
-    width: 100% !important;
+    /*width: 100% !important;*/
     /*position: center;*/
     /*float: initial;*/
     /*background: center center no-repeat;*/
@@ -347,18 +366,19 @@ footer {
     /*background-repeat: no-repeat !important;*/
     /*background-position: center center !important;*/
     /*background-position-x: center !important;*/
-    position: absolute;
-    top: 120px;
+    /*position: absolute;*/
+    /*top: 120px;
     bottom: 74px;
     right: 0;
-    left: 0;
+    left: 0;*/
 }
 
 #maptest {
     /*width:100%;*/
     /*position: relative;*/
-    height: 100%;
-    width: 100%;
+    height: 12%;
+    width: 45%;
+    padding-bottom: 30%;
 }
 
 #social-icons li a {
@@ -399,7 +419,7 @@ ul li a {
     text-emphasis-color: yellow;
 }
 
-ul li:hover {
+nav ul li:hover {
     background: #131e44;
 }
 
