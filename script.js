@@ -5,7 +5,7 @@
 var genericApp = angular.module('genericApp', ['ngRoute']);
 
 // configure our routes
-genericApp.config(function ($routeProvider) {
+genericApp.config(function ($routeProvider, $locationProvider) {
     $routeProvider
         //"ngPageTitle"
 
@@ -77,6 +77,9 @@ genericApp.config(function ($routeProvider) {
         })
 
         .otherwise({ redirectTo: '/error' });
+    
+    // use the HTML5 History API
+        $locationProvider.html5Mode(true);
 });
 
 genericApp.run(['$location', '$rootScope', function ($location, $rootScope) {
