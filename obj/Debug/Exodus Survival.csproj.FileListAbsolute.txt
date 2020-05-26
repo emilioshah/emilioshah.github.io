@@ -51,7 +51,8 @@
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\bin\roslyn\VBCSCompiler.exe.config
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\Exodus Survival.csprojResolveAssemblyReference.cache
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\Exodus Survival.csproj.CoreCompileInputs.cache
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\GenericSite4.0.dll
 \\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\GenericSite4.0.pdb
+\\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\Exodus Survival.csprojAssemblyReference.cache
+\\Mac\Dropbox\Code Projects\Exodus Survival\GenericSite4.0\obj\Debug\Exodus Survival.csproj.CopyComplete
