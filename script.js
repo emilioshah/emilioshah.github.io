@@ -79,7 +79,7 @@ genericApp.config(function ($routeProvider, $locationProvider) {
         .otherwise({ redirectTo: '/error' });
     
     // use the HTML5 History API
-        $locationProvider.html5Mode(true);
+        $locationProvider.html5Mode(false);
 });
 
 genericApp.run(['$location', '$rootScope', function ($location, $rootScope) {
